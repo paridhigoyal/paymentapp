@@ -1,0 +1,4 @@
+export const CREDIT_CARD = 'CREDIT_CARD'
+export const DEBIT_CARD = 'DEBIT_CARD'
+export const NETBANKING = 'NETBANKING'
+export const CASH_ON_DELIVERY='CASH_ON_DELIVERY'
